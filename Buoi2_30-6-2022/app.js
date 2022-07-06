@@ -2,7 +2,8 @@ Vue.createApp({
     data() {
       return {
         goals: [],
-        textGoal: ''
+        textGoal: '',
+        thaihung: '<h3>',
       };
     },
     methods: {
